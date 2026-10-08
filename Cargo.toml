@@ -21,7 +21,7 @@ path = "src/bin/poc_fixture.rs"
 # Path dependency on the existing, unmodified Bridge — never rewritten,
 # never reimplemented. This crate consumes it exactly as any other
 # consumer would: PolluxEngine::load / PolluxEngine::evaluate.
-pollux-polyglot-native-bridge = { path = "../pollux-polyglot-native-bridge" }
+pollux-polyglot-native-bridge = "0.1.0"
 
 [lints.rust]
 # `DYLD_INSERT_LIBRARIES` interposition and raw dlsym/libc calls are the

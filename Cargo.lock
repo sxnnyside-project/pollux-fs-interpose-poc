@@ -72,6 +72,8 @@ dependencies = [
 [[package]]
 name = "pollux-polyglot-native-bridge"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9620939dd88b7398c4cbbb14ef4fcf3ebac8a0a826440a4019c55ffeafb44e49"
 dependencies = [
  "sha2",
 ]
