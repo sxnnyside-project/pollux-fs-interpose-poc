@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Enforce Conventional Commits (feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert)
+set -euo pipefail
+exec scripts/check-commit-message.sh "$1"

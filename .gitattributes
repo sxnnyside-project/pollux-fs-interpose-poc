@@ -1,0 +1,19 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Force specific file types
+*.rs text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.sh text eol=lf
+Justfile text eol=lf
+
+# Binary files
+*.tar.gz binary
+*.zip binary
+*.dylib binary
+*.so binary
+*.dll binary
+*.a binary

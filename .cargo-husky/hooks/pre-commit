@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Runs the full non-mutating quality gate before commit
+set -euo pipefail
+just check
