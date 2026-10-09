@@ -41,7 +41,7 @@ read("./secrets/denied.txt")  -> Core -> DENY  -> real open() never runs, EACCES
 
 > *"Enforcement must prove that unauthorized operations never touch the kernel, while leaving the application binary completely unmodified."*
 
-Pollux FS Interpose PoC is a CoreRed project, part of the Sxnnyside Project's Pollux Ecosystem.
+Pollux FS Interpose PoC is part of the Sxnnyside Project's Pollux Ecosystem.
 
 ---
 
@@ -146,6 +146,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  <strong>Pollux FS Interpose PoC</strong> — A CoreRed Project<br>
+  <strong>Pollux FS Interpose PoC</strong> — A Sxnnyside Project<br>
   <em>&copy; 2026 Sxnnyside Project</em>
 </p>

@@ -24,4 +24,4 @@ For security vulnerabilities, see [SECURITY.md](SECURITY.md).
 
 ---
 
-*pollux-fs-interpose-poc is a CoreRed project, part of the Sxnnyside Project's Pollux Ecosystem. Part of the [Sxnnyside Project](https://sxnnysideproject.com).*
+*pollux-fs-interpose-poc is Sxnnyside Project. Part of the [Sxnnyside Project](https://sxnnysideproject.com).*
